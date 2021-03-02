@@ -1,7 +1,7 @@
 ### Hi there 👋
-I am a kind, caring, and enthusiastic IT and Computer Science student living in the UK.
-- ⚡ Fun fact: ... I used to make a Minigame Minecraft Server Network
-- 🌱 I’m currently learning ... PHP
+I am a kind, caring, and enthusiastic IT and computer science student living in the UK.
+- ⚡ Fun fact: I used to make a Minecraft minigame network
+- 🌱 I’m currently learning PHP
 
 <!--
 **ExenalEurope/ExenalEurope** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
