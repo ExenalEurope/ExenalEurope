@@ -6,7 +6,7 @@ I am a kind, caring, and enthusiastic IT and computer science student living in 
 - ✨ I’m currently working on something really cool
 - 🔥 I work on private game servers/websites and hoard source codes!
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=exenaleurope&show_icons=true&theme=dark)
+<center> ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=exenaleurope&show_icons=true&theme=dark) </center>
 
 <!--
 **ExenalEurope/ExenalEurope** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
