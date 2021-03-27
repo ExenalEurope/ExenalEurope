@@ -7,8 +7,8 @@ I am a kind, caring, and enthusiastic IT and computer science student living in 
 - 🔥 I work on private game servers/websites and hoard source codes!
 
 ### My favourite Languages 💕
-- PHP
-- Python
+- 🔥 PHP
+- 🔥 Python
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=exenaleurope&show_icons=true&theme=dark)
 
