@@ -3,8 +3,7 @@ I am a kind, caring, and enthusiastic IT and computer science student living in 
 - ☘️ Fun fact: I used to make a Minecraft minigame network
 - 🌱 I’m currently learning PHP 
 
-- ✨ I’m currently working on something really cool
-- 🔥 I work on private game servers/websites and hoard source codes!
+- ✨ I’m currently working on something really cool 
 
 ### My favourite Languages 💕
 - 🔥 PHP
