@@ -5,9 +5,8 @@ I am a kind, caring, and enthusiastic IT and computer science student living in 
 
 - ✨ I’m currently working on something really cool 
 
-### My favourite Languages 💕
+### My favourite Language �
 - 🔥 PHP
-- 🔥 Python
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=exenaleurope&show_icons=true&theme=dark)
 
