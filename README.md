@@ -1,14 +1,12 @@
 ### Hi there 👋
 I am a kind, caring, and enthusiastic IT and computer science student living in the UK.
-- ☘️ Fun fact: I used to make a Minecraft minigame network
-- 🌱 I’m currently learning PHP 
-
-- ✨ I’m currently working on something really cool 
+- I was a developer for the Lunar MC project.
+- I’m currently learning PHP
 
 ### My favourite Language 
 - 🔥 PHP
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=exenaleurope&show_icons=true&theme=dark)
+- 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ExenalEurope&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **ExenalEurope/ExenalEurope** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
