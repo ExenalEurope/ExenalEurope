@@ -11,6 +11,10 @@ to work on my own! And now, I am a full-stack developer working on my own PHP we
 ### Contact me ✉️
 You can contact me on akoszpek@gmail.com 
 
+### Languages I know ✉️
+Programming: PHP, Python
+English / Hungarian
+
 ### My previous work: Lunar MC Realms
 https://user-images.githubusercontent.com/47070055/118381655-0458d180-b5e5-11eb-90eb-f38377a8dd5f.mp4
 
