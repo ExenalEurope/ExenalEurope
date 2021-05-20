@@ -14,5 +14,5 @@ You can contact me on akoszpek@gmail.com
 ### Languages I know ❤️
 PHP, CSS, Python 
 
-### My previous work 
-[Lunar Network](https://github.com/ExenalEurope/lunarmc)
+### My previous work 🔨
+- [Lunar Network](https://github.com/ExenalEurope/lunarmc)
