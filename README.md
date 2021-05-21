@@ -15,6 +15,7 @@ You can contact me on akoszpek@gmail.com
 PHP, CSS, Python 
 
 ### My previous work 🔨
+- PHP Project (School/Private) 2021
 - [Lunar Network](https://github.com/ExenalEurope/lunarmc) 2017-2020
 - [Biography Website with RGB CSS](https://github.com/ExenalEurope/website) 2020
 - [Diablo 2 on Android using ExaGear](https://github.com/ExenalEurope/diablo2android) 2019
