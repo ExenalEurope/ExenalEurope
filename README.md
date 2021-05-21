@@ -15,6 +15,7 @@ You can contact me on akoszpek@gmail.com
 PHP, CSS, Python 
 
 ### My previous work 🔨
-- [Lunar Network](https://github.com/ExenalEurope/lunarmc)
-- [Biography Website with RGB CSS](https://github.com/ExenalEurope/website)
-- [First Unity Game I made ](https://github.com/ExenalEurope/hexgons)
+- [Lunar Network](https://github.com/ExenalEurope/lunarmc) 2017-2020
+- [Biography Website with RGB CSS](https://github.com/ExenalEurope/website) 2020
+- [First Unity Game I made ](https://github.com/ExenalEurope/hexgons) 2019
+- [Shooter I made in Visual Basic](https://github.com/ExenalEurope/spaceshooter) 2014
