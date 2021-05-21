@@ -22,3 +22,6 @@ PHP, CSS, Python
 - [First Unity Game I made ](https://github.com/ExenalEurope/hexgons) 2019
 - [2D Shooter I made in Visual Basic](https://github.com/ExenalEurope/spaceshooter) 2014
 - [Web browser made in Visual Basic w/ IE] 2014 Missing.
+
+### I am planning to learn
+Ruby
