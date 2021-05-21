@@ -16,3 +16,5 @@ PHP, CSS, Python
 
 ### My previous work 🔨
 - [Lunar Network](https://github.com/ExenalEurope/lunarmc)
+- [Biography Website with RGB CSS](https://github.com/ExenalEurope/website)
+- [First Unity Game I made ](https://github.com/ExenalEurope/hexgons)
