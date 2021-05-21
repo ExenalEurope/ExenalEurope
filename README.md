@@ -12,7 +12,7 @@ to work on my own! And now, I am a full-stack developer working on my own PHP we
 You can contact me on akoszpek@gmail.com 
 
 ### Languages I know ❤️
-PHP, CSS, Python 
+PHP, CSS, Python (Planning to learn Ruby)
 
 ### My previous work 🔨
 - PHP Project (School/Private) 2021
@@ -21,7 +21,4 @@ PHP, CSS, Python
 - [Diablo 2 on Android using ExaGear](https://github.com/ExenalEurope/diablo2android) 2019
 - [First Unity Game I made ](https://github.com/ExenalEurope/hexgons) 2019
 - [2D Shooter I made in Visual Basic](https://github.com/ExenalEurope/spaceshooter) 2014
-- [Web browser made in Visual Basic w/ IE] 2014 Missing.
-
-### I am planning to learn
-Ruby
+- [Web browser made in Visual Basic w/ IE] 2014 Missing. 
