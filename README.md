@@ -17,5 +17,6 @@ PHP, CSS, Python
 ### My previous work 🔨
 - [Lunar Network](https://github.com/ExenalEurope/lunarmc) 2017-2020
 - [Biography Website with RGB CSS](https://github.com/ExenalEurope/website) 2020
+- [Diablo 2 on Android using ExaGear](https://github.com/ExenalEurope/diablo2android) 2019
 - [First Unity Game I made ](https://github.com/ExenalEurope/hexgons) 2019
 - [2D Shooter I made in Visual Basic](https://github.com/ExenalEurope/spaceshooter) 2014
