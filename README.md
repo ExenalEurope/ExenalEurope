@@ -12,7 +12,7 @@ to work on my own! And now, I am a full-stack developer working on my own PHP we
 You can contact me on akoszpek@gmail.com 
 
 ### Languages I know ❤️
-PHP, CSS, Python (Planning to learn Ruby)
+PHP, CSS, Python (Planning to learn Ruby, xCode)
 
 ### My previous work 🔨
 - PHP Project (School/Private) 2021
